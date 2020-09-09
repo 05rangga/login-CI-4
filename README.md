@@ -1,7 +1,10 @@
+
 1. app\Config\App.php
-public $baseURL = 'http://localhost/ci41/appstarter/public/'; sesuaikan
+public $baseURL = 'http://localhost/ci41/appstarter/public/'; ganti
+$baseURL = 'http://localhost/..../public/'; (sesesuai dengan direktorimu)
 
 2. app\Config\Database.php
+ app\Config\Database.php
 	public $default = [
 		'DSN'      => '',
 		'hostname' => 'localhost',
@@ -23,7 +26,6 @@ public $baseURL = 'http://localhost/ci41/appstarter/public/'; sesuaikan
 		'failover' => [],
 		'port'     => 3306,
 	];
-
 
 
 
