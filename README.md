@@ -6,6 +6,8 @@ $baseURL = 'http://localhost/..../public/'; (sesesuai dengan direktorimu)
 
 2. app\Config\Database.php
 	public $default = (nama database, username dan password disesuaikan)
+	
+3. buat database dan run users.sql di-phpMYadmin
 
 ---------------------------------------------------------------------------------
 
