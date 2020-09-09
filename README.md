@@ -9,6 +9,8 @@ $baseURL = 'http://localhost/..../public/'; (sesesuai dengan direktorimu)
 	
 3. buat database dan run users.sql di-phpMYadmin
 
+4. linknya halaman login http://localhost/..../public/admin'
+
 ---------------------------------------------------------------------------------
 
 sumber tutorial: https://www.haysia.com/article/2020/07/10/membuat-web-administrator-dengan-codeigniter-4-tutorial-codeigniter-4-part-1
