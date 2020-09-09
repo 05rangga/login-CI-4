@@ -1,31 +1,19 @@
-
+-------------------------------------------------------------------------------
+# Baca dulu
 1. app\Config\App.php
 public $baseURL = 'http://localhost/ci41/appstarter/public/'; ganti
 $baseURL = 'http://localhost/..../public/'; (sesesuai dengan direktorimu)
 
 2. app\Config\Database.php
- app\Config\Database.php
-	public $default = [
-		'DSN'      => '',
-		'hostname' => 'localhost',
-		'username' => 'root',
-		'password' => '',
-		'database' => 'ci4-project',
-		'DBDriver' => 'MySQLi',
-		'DBPrefix' => '',
-		'pConnect' => false,
-		'DBDebug'  => (ENVIRONMENT !== 'production'),
-		'cacheOn'  => false,
-		'cacheDir' => '',
-		'charset'  => 'utf8',
-		'DBCollat' => 'utf8_general_ci',
-		'swapPre'  => '',
-		'encrypt'  => false,
-		'compress' => false,
-		'strictOn' => false,
-		'failover' => [],
-		'port'     => 3306,
-	];
+	public $default = (nama database, username dan password disesuaikan)
+
+---------------------------------------------------------------------------------
+
+sumber tutorial: https://www.haysia.com/article/2020/07/10/membuat-web-administrator-dengan-codeigniter-4-tutorial-codeigniter-4-part-1
+
+
+
+
 
 
 
