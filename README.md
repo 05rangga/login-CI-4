@@ -11,6 +11,8 @@ $baseURL = 'http://localhost/..../public/'; (sesesuai dengan direktorimu)
 
 sumber tutorial: https://www.haysia.com/article/2020/07/10/membuat-web-administrator-dengan-codeigniter-4-tutorial-codeigniter-4-part-1
 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 
 
 
